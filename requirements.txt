@@ -1,9 +1,0 @@
-flask
-flask_sqlalchemy
-flask_login
-werkzeug
-pillow
-python-dotenv
-qrcode
-google-generativeai
-gunicorn
