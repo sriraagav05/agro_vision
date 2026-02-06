@@ -51,7 +51,6 @@ Modern agriculture faces critical challenges:
 
 Combines image data, environmental in<img width="1902" height="912" alt="Screenshot 2026-02-04 113536" src="https://github.com/user-attachments/assets/fd12a5b7-2c83-4597-a840-d4c23c8a0022" />
 puts, and financial analysis
-![Uploading Screenshot (412).png…]()
 
 Provides a single dashboard for smarter farming decisions
 
